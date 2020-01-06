@@ -1,0 +1,61 @@
+# 数列极限
+
+## 数列极限的定义与性质
+
+![1578275681995](D:\markdown笔记\calculus_tongji\images\1_1.png)
+
+![1578275759570](D:\markdown笔记\calculus_tongji\images\1_2.png)
+
+![1578275791450](D:\markdown笔记\calculus_tongji\images\1_3.png)
+
+
+
+# 函数极限
+
+## 函数极限的定义
+
+![1578275838868](D:\markdown笔记\calculus_tongji\images\1_4.png)
+
+![1578275876597](D:\markdown笔记\calculus_tongji\images\1_5.png)
+
+
+
+## 函数极限的性质
+
+![1578275939984](D:\markdown笔记\calculus_tongji\images\1_6.png)
+
+
+
+## 无穷大与无穷小
+
+![1578275993433](D:\markdown笔记\calculus_tongji\images\1_7.png)
+
+
+
+# 极限的运算法则
+
+![1578276106952](D:\markdown笔记\calculus_tongji\images\1_8.png)
+
+
+
+
+
+# 极限存在准则与重要极限
+
+![1578276174037](D:\markdown笔记\calculus_tongji\images\1_9.png)
+
+
+
+![1578276224609](D:\markdown笔记\calculus_tongji\images\1_10.png)
+
+
+
+
+
+# 无穷小的比较
+
+![1578276266562](D:\markdown笔记\calculus_tongji\images\1_11.png)
+
+
+
+![1578276300843](D:\markdown笔记\calculus_tongji\images\1_12.png)
