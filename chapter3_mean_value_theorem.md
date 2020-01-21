@@ -486,3 +486,4 @@ $f(x_2) -f(x_1) = f^{’}(\xi) (x_2 - x_1)$
 ![1579597001724](D:\markdown笔记\calculus_tongji\images\3~1579597001724.png)
 
 ![1579597061449](D:\markdown笔记\calculus_tongji\images\3~1579597061449.png)
+
